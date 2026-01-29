@@ -4,10 +4,3 @@
 /Users/ayushmsi/Documents/GitHub/demoInvoiceProject/src/main/java/com/demo/invoice/service/OrderParser.java
 /Users/ayushmsi/Documents/GitHub/demoInvoiceProject/src/main/java/com/demo/invoice/service/OrderProcessor.java
 /Users/ayushmsi/Documents/GitHub/demoInvoiceProject/src/main/java/com/demo/invoice/service/ReportFormatter.java
-/Users/ayushmsi/Documents/GitHub/demoInvoiceProject/src/main/java/invoiddemoproj/Main.java
-/Users/ayushmsi/Documents/GitHub/demoInvoiceProject/src/main/java/invoiddemoproj/model/CustomerSummary.java
-/Users/ayushmsi/Documents/GitHub/demoInvoiceProject/src/main/java/invoiddemoproj/model/InvoiceReport.java
-/Users/ayushmsi/Documents/GitHub/demoInvoiceProject/src/main/java/invoiddemoproj/model/OrderRecord.java
-/Users/ayushmsi/Documents/GitHub/demoInvoiceProject/src/main/java/invoiddemoproj/service/InvoiceProcessor.java
-/Users/ayushmsi/Documents/GitHub/demoInvoiceProject/src/main/java/invoiddemoproj/service/OrderParser.java
-/Users/ayushmsi/Documents/GitHub/demoInvoiceProject/src/main/java/invoiddemoproj/service/ReportFormatter.java

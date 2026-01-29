@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="invoiddemoproj.service.ReportFormatterTest" time="0.027" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="invoiddemoproj.service.ReportFormatterTest" time="0.022" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="23"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -9,11 +9,12 @@
     <property name="java.vendor.url" value="https://java.oracle.com/"/>
     <property name="os.name" value="Mac OS X"/>
     <property name="java.vm.specification.version" value="23"/>
-    <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-23.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/ayushmsi/Documents/GitHub/demoInvoiceProject/target/surefire/surefirebooter-20260129201001526_3.jar /Users/ayushmsi/Documents/GitHub/demoInvoiceProject/target/surefire 2026-01-29T20-10-00_639-jvmRun1 surefire-20260129201001526_1tmp surefire_0-20260129201001526_2tmp"/>
+    <property name="sun.java.command" value="/Users/ayushmsi/Documents/GitHub/demoInvoiceProject/target/surefire/surefirebooter-20260129201353609_3.jar /Users/ayushmsi/Documents/GitHub/demoInvoiceProject/target/surefire 2026-01-29T20-13-53_566-jvmRun1 surefire-20260129201353609_1tmp surefire_0-20260129201353609_2tmp"/>
     <property name="jdk.debug" value="release"/>
+    <property name="test" value="invoiddemoproj.service.ReportFormatterTest"/>
     <property name="surefire.test.class.path" value="/Users/ayushmsi/Documents/GitHub/demoInvoiceProject/target/test-classes:/Users/ayushmsi/Documents/GitHub/demoInvoiceProject/target/classes:/Users/ayushmsi/.m2/repository/org/junit/jupiter/junit-jupiter/5.10.1/junit-jupiter-5.10.1.jar:/Users/ayushmsi/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.10.1/junit-jupiter-api-5.10.1.jar:/Users/ayushmsi/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar:/Users/ayushmsi/.m2/repository/org/junit/platform/junit-platform-commons/1.10.1/junit-platform-commons-1.10.1.jar:/Users/ayushmsi/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/Users/ayushmsi/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.10.1/junit-jupiter-params-5.10.1.jar:/Users/ayushmsi/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.10.1/junit-jupiter-engine-5.10.1.jar:/Users/ayushmsi/.m2/repository/org/junit/platform/junit-platform-engine/1.10.1/junit-platform-engine-1.10.1.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="/Users/ayushmsi"/>
@@ -25,10 +26,10 @@
     <property name="basedir" value="/Users/ayushmsi/Documents/GitHub/demoInvoiceProject"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="line.separator" value="&#10;"/>
-    <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="apple.awt.application.name" value="ForkedBooter"/>
-    <property name="surefire.real.class.path" value="/Users/ayushmsi/Documents/GitHub/demoInvoiceProject/target/surefire/surefirebooter-20260129201001526_3.jar"/>
+    <property name="surefire.real.class.path" value="/Users/ayushmsi/Documents/GitHub/demoInvoiceProject/target/surefire/surefirebooter-20260129201353609_3.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="23.0.1+11-39"/>
     <property name="user.name" value="ayushmsi"/>
@@ -38,6 +39,7 @@
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="file.encoding" value="UTF-8"/>
     <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="maven.ext.class.path" value="/Users/ayushmsi/.vscode/extensions/oracle.oracle-java-25.0.1/nbcode/java/maven-nblib/netbeans-eventspy.jar"/>
     <property name="localRepository" value="/Users/ayushmsi/.m2/repository"/>
     <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
     <property name="java.io.tmpdir" value="/var/folders/mq/8k2z_f792vv2nv94rvm7pvk80000gn/T/"/>
@@ -54,5 +56,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
     <property name="java.class.version" value="67.0"/>
   </properties>
-  <testcase name="formatterBuildsAlignedReportWithGrandTotal" classname="invoiddemoproj.service.ReportFormatterTest" time="0.017"/>
+  <testcase name="formatterBuildsAlignedReportWithGrandTotal" classname="invoiddemoproj.service.ReportFormatterTest" time="0.014"/>
 </testsuite>
