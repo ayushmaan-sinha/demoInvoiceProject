@@ -1,0 +1,15 @@
+ORD001|John Smith|Laptop|2|999.99|2024-03-15
+ORD002|John Smith|Wireless Mouse|3|25.50|2024-03-18
+ORD003|Alice Brown|24" Monitor|1|249.99|2024-03-20
+ORD004|Alice Brown|Standing Desk|1|550.00|2024-03-22
+ORD005|Carlos Diaz|Mechanical Keyboard|4|75.00|2024-03-23
+ORD006|Carlos Diaz|Ergonomic Chair|2|320.00|2024-03-24
+ORD007|Priya Patel|Tablet|3|450.00|2024-03-25
+ORD008|Priya Patel|Stylus|3|29.99|2024-03-26
+ORD009|Priya Patel|Noise-canceling Headphones|1|120.00|2024-03-27
+ORD010|Mei Chen|Smartphone|1|799.00|2024-03-28
+ORD011|Mei Chen|Phone Case|2|19.99|2024-03-28
+ORD012|Mei Chen|USB-C Charger|2|29.99|2024-03-29
+ORD013|Alice Brown|USB-C Dock|1|189.99|2024-03-30
+ORD014|Carlos Diaz|HD Webcam|5|89.99|2024-03-30
+ORD015|John Smith|Chair Mat|1|120.00|2024-03-30
